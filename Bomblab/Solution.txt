@@ -1,0 +1,9 @@
+Phase 1; q 
+Phase 2: 18 19 21 24 28 33
+Phase 3: 1 4
+Phase 4: 176 2
+Phase 5: jdoefg
+Phase 6: 6 3 2 5 1 4
+Secret Phase: 22
+
+# detailed explanation will be added later
