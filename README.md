@@ -1,2 +1,2 @@
 # UCLA-CS33-Computer-Organization-Lab
-This my solutions to CS33 labs 2023 Spring quarter
+These are the labs I did for CS33 2023 Spring quarter
